@@ -37,4 +37,4 @@ jobs:
         SOURCE: "dist/"
         REMOTE_HOST: "112.124.30.127"
         REMOTE_USER: "root"
-        TARGET: "/www/wwwroot/www.thenewstep.cn/autodeploy/"
+        TARGET: "/var/www/wwwroot/www.thenewstep.cn/autodistance/"
